@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+catboost_info/
+tableau_data_pipeline_C3A.egg-info/
+hyperd.log
+balanced_fred_model.pkl
+oracle_schema.txt
+oracle_schema/
+*.hyper

@@ -1,0 +1,8 @@
+tableauhyperapi>=0.0.20000
+pandas>=2.0
+sqlalchemy>=2.0
+pyodbc>=4.0
+python-dotenv>=1.0
+requests>=2.30
+oracledb>=2.0  # Only if Oracle is used
+schedule>=1.2
